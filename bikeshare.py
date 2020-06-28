@@ -1,7 +1,7 @@
 # Remaining issues but should be ok for a pass:
 #  - truncation of columns when looking at the raw csv file
 #
-
+# created by: jonas sjöblom
 
 #import packages needed
 
