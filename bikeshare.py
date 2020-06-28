@@ -1,3 +1,4 @@
+# version 1.0
 # Remaining issues but should be ok for a pass:
 #  - truncation of columns when looking at the raw csv file
 #
