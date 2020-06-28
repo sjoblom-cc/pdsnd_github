@@ -2,6 +2,7 @@
 #  - truncation of columns when looking at the raw csv file
 #
 # created by: jonas sjöblom
+# contact info: jonas-fakemail@sjoblom.cc
 
 #import packages needed
 
