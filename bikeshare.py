@@ -3,6 +3,7 @@
 #
 # created by: jonas sjöblom
 # contact info: jonas-fakemail@sjoblom.cc
+# description: created for the udacity python fundamentals course
 
 #import packages needed
 
